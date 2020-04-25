@@ -19,9 +19,9 @@ namespace MediatRLoggingPipelineExample
 
     public class PingCommandHandler : IRequestHandler<PingCommand, Unit>
     {
-        private readonly ILogger<PingCommandHandler> _logger;
+        private readonly ILogger<PingCommand> _logger;
 
-        public PingCommandHandler(ILogger<PingCommandHandler> logger)
+        public PingCommandHandler(ILogger<PingCommand> logger)
         {
             _logger = logger;
         }
