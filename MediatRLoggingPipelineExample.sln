@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRLoggingPipelineExample", "MediatRLoggingPipelineExample\MediatRLoggingPipelineExample.csproj", "{F95C6CCE-484A-462C-ADD1-AE5A4BB7E9BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F95C6CCE-484A-462C-ADD1-AE5A4BB7E9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95C6CCE-484A-462C-ADD1-AE5A4BB7E9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95C6CCE-484A-462C-ADD1-AE5A4BB7E9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95C6CCE-484A-462C-ADD1-AE5A4BB7E9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
